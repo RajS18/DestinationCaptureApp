@@ -1,4 +1,4 @@
-# places_app
+# DestinationCaptureApp
 
 A new Flutter project.
 
